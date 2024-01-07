@@ -13,6 +13,7 @@
     "@types/react-router-dom": "^5.3.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-flow-renderer": "^10.3.17",
     "react-router-dom": "^6.21.1"
   },
   "devDependencies": {
