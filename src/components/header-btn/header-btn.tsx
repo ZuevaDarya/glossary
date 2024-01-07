@@ -9,7 +9,7 @@ function HeaderBtn({ btnText, onBtnClick, activeClass }: HeaderBtnProps) {
   return (
     <button
       onClick={(e) => onBtnClick(e)}
-      className={activeClass}
+      className={`header__button ${activeClass}`}
     >
       { btnText }
     </button>
