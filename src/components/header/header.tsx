@@ -28,7 +28,6 @@ function Header() {
     navigate(AppRoutes.Graph);
   };
 
-  console.log(activePage)
   return(
     <header className='header'>
       <div className='header__buttons'>
