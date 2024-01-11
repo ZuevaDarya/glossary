@@ -4,7 +4,7 @@
 
 ## Демонстрация проекта
 
-Ознакомиться с проектом на Github Pages можно по [**ссылке**](https://zuevadarya.github.io/glossary).
+Ознакомиться с проектом на *GitHub Pages* можно по [**ссылке**](https://zuevadarya.github.io/glossary).
 
 **Страница с глоссарием**
 
