@@ -1,6 +1,7 @@
 {
   "name": "glossary-vkr",
   "private": true,
+  "homepage": "https://zuevadarya.github.io/glossary",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
