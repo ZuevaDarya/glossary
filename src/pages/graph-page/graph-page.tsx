@@ -29,7 +29,10 @@ function GraphPage() {
             fitView
           >
             <EdgeText x={0} y={0}/>
-            <Background variant={BackgroundVariant.Dots} />
+            <Background 
+              variant={BackgroundVariant.Dots} 
+              color='#35246e'
+            />
             <MiniMap />
             <Controls showInteractive={true}/>
           </ReactFlow>

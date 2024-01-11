@@ -228,7 +228,7 @@ const mindMap = {
       id: '6-8',
       source: '6',
       target: '8',
-      label: 'Имеет харатеристику',
+      label: 'Имеет показатель',
       markerEnd: {
         type: MarkerType.ArrowClosed,
         width: 20,
@@ -244,7 +244,7 @@ const mindMap = {
       id: '8-9',
       source: '8',
       target: '9',
-      label: 'Имеет показатель',
+      label: 'Определяет',
       markerEnd: {
         type: MarkerType.ArrowClosed,
         width: 20,
