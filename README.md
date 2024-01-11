@@ -4,6 +4,8 @@
 
 ## Демонстрация проекта
 
+Ознакомиться с проектом на Github Pages можно по [**ссылке**](https://zuevadarya.github.io/glossary).
+
 **Страница с глоссарием**
 
 ![glossary](https://github.com/ZuevaDarya/glossary/assets/80260736/04a39338-3465-4679-8f3a-47c9d9c4c018)
