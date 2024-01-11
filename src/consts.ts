@@ -1,4 +1,4 @@
 export enum AppRoutes {
-  Glossary = '/',
-  Graph = '/graph',
+  Glossary = '/glossary',
+  Graph = '/glossary/graph',
 }
